@@ -11,7 +11,7 @@ hr {
     display: none;
 }
 
-@media screen and (min-width: 1024px) {
+@media screen and (min-width: 1024px)Imagens/Captura de tela_2026-05-19_09-01-04.png {
     .rodapé {
         display: flex;
         justify-content: space-around;
